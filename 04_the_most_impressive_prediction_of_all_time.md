@@ -261,8 +261,6 @@ This dual perspective may have freed him from the groupthink that afflicted both
 
 ---
 
-The Historical Impact:
-
 The tragedy is that Durnovo's warning went unheeded. Had Russian leadership understood, as he did, that war with Germany risked unleashing forces that would destroy the entire social order, they might have acted differently in 1914. Instead, his memo must qualify as the greatest example in history of someone accurately predicting not just that a revolution would occur, but precisely how and why it would unfold in ways that defied conventional political theory.
 
 This level of insight into fundamental social and political dynamics, combined with the ability to see how they would play out against the stress of war, puts Durnovo's analysis in a class by itself. While others made various predictions about war and revolution, no one else seems to have grasped with such clarity exactly how Russia's unique social conditions would interact with military conflict to produce an unprecedented type of revolution that would reshape the 20th century. And he didn't just make claims in a vacuum; his arguments are the result of clear, logical deduction. He wasn't just making random guesses— each prediction followed from a careful analysis of the underlying social, economic, and political dynamics at play. 
