@@ -1,5 +1,5 @@
-—-
-title: "The Short Case for Nvidia Stock— If I Had to Make It"
+---
+title: "The Short Case for Nvidia Stock (If I Had to Make It)"
 date: "2025-01-25"
 excerpt: "All the reasons why Nvidia will have a very hard time living up to the currently lofty expectations of the market."
 category: "Investing"
@@ -8,7 +8,7 @@ coverImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/
 author: "Jeffrey Emanuel"
 authorImage: "https://pbs.twimg.com/profile_images/1225476100547063809/53jSWs7z_400x400.jpg"
 authorBio: "Former Professional Investor, Software Engineer, and Founder of YouTube Transcript Optimizer"
-—-
+---
 
 As someone who spent ~10 years working as a generalist investment analyst at various long/short hedge funds (including stints at Millennium and Balyasny), while also being something of a math and computer nerd who has been studying deep learning since 2010 (back when Geoff Hinton was still talking about Restricted Boltzmann Machines and everything was still programmed using MATLAB, and researchers were still trying to show that they could get better results at classifying handwritten digits than by using Support Vector Machines), I'd like to think that I have a fairly unusual perspective on how AI technology is developing and how this relates to equity valuations in the stock market.
 
