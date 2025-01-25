@@ -1,5 +1,5 @@
 ---
-title: "The Short Case for Nvidia Stock (If I Had to Make It)"
+title: "The Short Case for Nvidia Stock"
 date: "2025-01-25"
 excerpt: "All the reasons why Nvidia will have a very hard time living up to the currently lofty expectations of the market."
 category: "Investing"
