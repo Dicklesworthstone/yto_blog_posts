@@ -20,7 +20,7 @@ I say this not to brag, but rather to help establish my bona fides as someone wh
 
 With all that said, whenever I meet with and chat with my friends and ex colleagues from the hedge fund world, the conversation quickly turns to Nvidia. It's not every day that a company goes from relative obscurity to being worth more than the combined stock markets of England, France, or Germany! And naturally, these friends want to know my thoughts on the subject. Because I am such a dyed-in-the-wool believer in the long term transformative impact of this technology— I truly believe it's going to radically change nearly every aspect of our economy and society in the next 5-10 years, with basically no historical precedent— it has been hard for me to make the argument that Nvidia's momentum is going to slow down or stop anytime soon.
 
-And so, even though I've thought the valuation was just too rich for my blood for the past year or so, a confluence of recent developments has caused me to flip a bit to my usual instinct, which is to be a bit more contrarian in outlook and to question the consensus when it seems to be more than priced in. For "what the wise man believes in the beginning, the fool believes in the end" became a famous saying for a good reason.
+And so, even though I've thought the valuation was just too rich for my blood for the past year or so, a confluence of recent developments has caused me to flip a bit to my usual instinct, which is to be a bit more contrarian in outlook and to question the consensus when it seems to be more than priced in. The saying "what the wise man believes in the beginning, the fool believes in the end" became famous for a good reason.
 
 ## The Bull Case
 
